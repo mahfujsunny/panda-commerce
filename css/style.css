@@ -1,0 +1,32 @@
+.panda-carousel {
+    margin-top: 103px;
+    border-radius: 20px;
+}
+
+.panda-carousel-bg {
+    background-color: #FEEAE9;
+}
+
+.categoreis img {
+    width: 100px;
+}
+
+.categoreis h2 {
+    font-size: 36px;
+}
+
+.categoreis-bg-1 {
+    background-image: linear-gradient(#FF9C35, #FFD019);
+}
+
+.categoreis-bg-2 {
+    background-image: linear-gradient(#a88694, #FF136F);
+}
+
+.categoreis-bg-3 {
+    background-image: linear-gradient(#4289FF, #3F07F8);
+}
+
+.btn-bg {
+    background-image: linear-gradient(#FF589B, #FF136F);
+}
